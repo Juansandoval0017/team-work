@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bill Mahoney",
+        "work": "PRODUCT OWNER",
+        "photo": "photo1.png"
+    },
+    {
+        "name": "Saba Cabrera",
+        "work": "ART DIRECTOR",
+        "photo": "photo2.png"
+    },
+    {
+        "name": "shae Le",
+        "work": "TECH LEAD",
+        "photo": "photo3.png"
+    }
+    ,{
+        "name": "Skylah Lu",
+        "work": "UX DESIGNER",
+        "photo": "photo4.png"
+    }
+    ,{
+        "name": "Griff Richards",
+        "work": "DEVELOPER",
+        "photo": "photo5.png"
+    }
+    ,{
+        "name": "Stan Jhon",
+        "work": "DEVELOPER",
+        "photo": "photo6.png"
+    }
+]
